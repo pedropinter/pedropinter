@@ -4,7 +4,7 @@
 
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Tecnico em Desenvolvimento de Sistemas / Senac Unisinos]
+- 🎓 Tecnico em Desenvolvimento de Sistemas / Senac Unisinos
 - 🎓 Cursando [Ensino médio com foco em Informática para internet / Senac Unisinos]
 
 
